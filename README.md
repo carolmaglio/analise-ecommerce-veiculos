@@ -84,7 +84,7 @@ A análise foi construída a partir de um banco de dados relacional composto pel
 <img width="1916" height="1017" alt="1" src="https://github.com/user-attachments/assets/81ec6cb5-badf-484b-a92e-9667c99fe6ab" />
 <img width="1918" height="1017" alt="2" src="https://github.com/user-attachments/assets/d676775f-7a12-453e-b000-9656a1e69b66" />
 
-⬇️ [Clique aqui para baixar o Dashboard](https://markdownlivepreview.com/)
+⬇️ [Clique aqui para baixar o Dashboard](https://github.com/carolmaglio/analise-ecommerce-veiculos/tree/main/dashboard)
 
 
 
