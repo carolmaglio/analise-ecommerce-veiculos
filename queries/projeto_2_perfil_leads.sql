@@ -166,4 +166,3 @@ order by
 	prod.brand,
 	prod.model,
 	"visitas (#)"
-
